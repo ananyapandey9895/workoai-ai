@@ -89,7 +89,7 @@ pls/
 
 ## 🔌 API Endpoints
 
-### 📤 POST `/api/upload`
+### POST `/api/upload`
 
 Handles file uploads
 
@@ -104,7 +104,7 @@ Handles file uploads
 
 ---
 
-### 🧠 POST `/api/summarize`
+### POST `/api/summarize`
 
 Generates summary using Gemini AI
 
@@ -130,7 +130,7 @@ Generates summary using Gemini AI
 
 ---
 
-### ❤️ GET `/api/health`
+### GET `/api/health`
 
 Health check endpoint
 
@@ -211,7 +211,7 @@ npm start
 
 ---
 
-## 🌐 Access the App
+## Access the App
 
 ```
 http://localhost:3001
@@ -219,7 +219,7 @@ http://localhost:3001
 
 ---
 
-## 🧪 Error Handling
+## Error Handling
 
 * Empty input
 * Invalid file types
@@ -231,7 +231,7 @@ Clear, user‑friendly error messages are displayed for each case.
 
 ---
 
-## 📦 Production Build
+## Production Build
 
 ```bash
 cd client
@@ -242,13 +242,13 @@ Creates an optimized production build in `client/build/`.
 
 ---
 
-## 📜 License
+## License
 
 This project was built as part of a **WorkoAI assignment**.
 
 ---
 
-## 🤝 Support & Troubleshooting
+## Support & Troubleshooting
 
 Before raising an issue, ensure:
 

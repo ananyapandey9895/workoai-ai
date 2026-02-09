@@ -6,17 +6,17 @@ DeepRead AI is a full‑stack, AI‑powered document summarization application t
 
 ## ✨ Key Features
 
-* 📄 **Multiple Input Methods** – Paste text or upload `.txt` / `.pdf` files
-* 🤖 **AI‑Powered Summaries** – Powered by **Google Gemini 2.5 Flash**
-* 🎨 **Three Summarization Styles**
+* **Multiple Input Methods** – Paste text or upload `.txt` / `.pdf` files
+* **AI‑Powered Summaries** – Powered by **Google Gemini 2.5 Flash**
+* **Three Summarization Styles**
 
   * **Brief** – 2–3 concise sentences
   * **Detailed** – Covers all key points
   * **Bullets** – Easy‑to‑scan bullet summary
-* ✅ **Robust Validation** – 50 to 50,000 characters supported
-* 📊 **Smart Statistics** – Original length, summary length & reduction %
-* 📋 **Copy to Clipboard** – One‑click copy
-* 🎯 **Modern UI** – Clean layout with smooth animations
+* **Robust Validation** – 50 to 50,000 characters supported
+* **Smart Statistics** – Original length, summary length & reduction %
+* **Copy to Clipboard** – One‑click copy
+* **Modern UI** – Clean layout with smooth animations
 
 ---
 
